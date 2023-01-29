@@ -13,4 +13,5 @@ Ao criar esse projeto, pude colocar em prática os seguintes conceitos:
 • Seletores CSS
 
 Esse projeto é uma página que apresenta informações de uma imobiliária;
+
 Esta página está dividida em 6 seções. Cada seção possui um tipo de informação sobre a imobiliária;
