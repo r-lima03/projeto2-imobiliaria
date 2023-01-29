@@ -1,0 +1,147 @@
+body {
+    font-style: Tahoma;
+    margin: 0;
+}
+
+/* Estilos Globais */
+.secao {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+
+.paragrafo {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;
+}
+
+/* Estilos 1ª Seção */
+.topo {
+    background-color: #afddfb;
+}
+
+.logo {
+    width: 150px;
+}
+
+.paragrafo-topo {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.paragrafo-topo a {
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Estilos  2ª Seção */
+.banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+body .texto-destaque {
+    font-weight: bold;
+    color: #1d80c1;
+}
+
+body .texto-amarelo {
+    color: #fff81b;
+    font-weight: bold;
+}
+
+/* Estilos 3ª Seção */
+h1 {
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+
+h2 {
+    color: #1c81c0;
+    margin-top: 0;
+}
+
+.contract {
+    width: 450px;
+}
+
+/* Estilos 4ª Seção */
+.servicos {
+    background-color: #1d80c1;
+}
+
+.servicos h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.servicos .paragrafo-servicos {
+    color: #ffffff;
+    line-height: 42px;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+}
+
+.servicos .lista-servicos {
+    margin: 40px auto;
+    width: 135px;
+    color: #ffffff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+/* Estilos 5ª Seção */
+.corretoresimg {
+    width: 450px;
+}
+
+.corretores h3 {
+    color: #1c81c0;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+/* Estilos 6ª Seção */
+.contato {
+    background-color: #1d80c1;
+}
+
+.contato h3 {
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.contato .paragrafo-contato {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 15px;
+    text-align: center;
+}
+
+.contato .lista-contato{
+    margin: 40px auto;
+    width: 210px;
+}
+
+.contato .item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: #fff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
